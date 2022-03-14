@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Start repo 1"
+    },
+    {
+        "id": 2,
+        "name": "Start repo 2"
+    },
+    {
+        "id": 3,
+        "name": "Install tc"
+    },
+    {
+        "id": 4,
+        "name": "Create jobs 1 and 2"
+    },
+    {
+        "id": 5,
+        "name": "Copy file from job 1 to job 2"
+    }
+]
